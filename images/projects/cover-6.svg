@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" width="1280" height="800">
+  <defs>
+    <linearGradient id="bg6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1a1a"/>
+      <stop offset="100%" stop-color="#050f0f"/>
+    </linearGradient>
+    <radialGradient id="glow6" cx="70%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette6" cx="50%" cy="50%" r="75%">
+      <stop offset="55%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.6)"/>
+    </radialGradient>
+    <linearGradient id="accent6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#bg6)"/>
+  <rect width="1280" height="800" fill="url(#glow6)"/>
+  <g opacity="0.1" stroke="#06b6d4" stroke-width="0.5" fill="none">
+    <polygon points="120,65 150.31,82.5 150.31,117.5 120,135 89.69,117.5 89.69,82.5"/>
+    <polygon points="250,65 280.31,82.5 280.31,117.5 250,135 219.69,117.5 219.69,82.5"/>
+    <polygon points="380,65 410.31,82.5 410.31,117.5 380,135 349.69,117.5 349.69,82.5"/>
+    <polygon points="510,65 540.31,82.5 540.31,117.5 510,135 479.69,117.5 479.69,82.5"/>
+    <polygon points="640,65 670.31,82.5 670.31,117.5 640,135 609.69,117.5 609.69,82.5"/>
+    <polygon points="770,65 800.31,82.5 800.31,117.5 770,135 739.69,117.5 739.69,82.5"/>
+    <polygon points="900,65 930.31,82.5 930.31,117.5 900,135 869.69,117.5 869.69,82.5"/>
+    <polygon points="1030,65 1060.31,82.5 1060.31,117.5 1030,135 999.69,117.5 999.69,82.5"/>
+    <polygon points="1160,65 1190.31,82.5 1190.31,117.5 1160,135 1129.69,117.5 1129.69,82.5"/>
+    <polygon points="185,170 215.31,187.5 215.31,222.5 185,240 154.69,222.5 154.69,187.5"/>
+    <polygon points="315,170 345.31,187.5 345.31,222.5 315,240 284.69,222.5 284.69,187.5"/>
+    <polygon points="445,170 475.31,187.5 475.31,222.5 445,240 414.69,222.5 414.69,187.5"/>
+    <polygon points="575,170 605.31,187.5 605.31,222.5 575,240 544.69,222.5 544.69,187.5"/>
+    <polygon points="705,170 735.31,187.5 735.31,222.5 705,240 674.69,222.5 674.69,187.5"/>
+    <polygon points="835,170 865.31,187.5 865.31,222.5 835,240 804.69,222.5 804.69,187.5"/>
+    <polygon points="965,170 995.31,187.5 995.31,222.5 965,240 934.69,222.5 934.69,187.5"/>
+    <polygon points="1095,170 1125.31,187.5 1125.31,222.5 1095,240 1064.69,222.5 1064.69,187.5"/>
+    <polygon points="120,275 150.31,292.5 150.31,327.5 120,345 89.69,327.5 89.69,292.5"/>
+    <polygon points="250,275 280.31,292.5 280.31,327.5 250,345 219.69,327.5 219.69,292.5"/>
+    <polygon points="380,275 410.31,292.5 410.31,327.5 380,345 349.69,327.5 349.69,292.5"/>
+    <polygon points="1030,275 1060.31,292.5 1060.31,327.5 1030,345 999.69,327.5 999.69,292.5"/>
+    <polygon points="1160,275 1190.31,292.5 1190.31,327.5 1160,345 1129.69,327.5 1129.69,292.5"/>
+    <polygon points="185,380 215.31,397.5 215.31,432.5 185,450 154.69,432.5 154.69,397.5"/>
+    <polygon points="315,380 345.31,397.5 345.31,432.5 315,450 284.69,432.5 284.69,397.5"/>
+    <polygon points="445,380 475.31,397.5 475.31,432.5 445,450 414.69,432.5 414.69,397.5"/>
+    <polygon points="705,380 735.31,397.5 735.31,432.5 705,450 674.69,432.5 674.69,397.5"/>
+    <polygon points="835,380 865.31,397.5 865.31,432.5 835,450 804.69,432.5 804.69,397.5"/>
+    <polygon points="965,380 995.31,397.5 995.31,432.5 965,450 934.69,432.5 934.69,397.5"/>
+    <polygon points="1095,380 1125.31,397.5 1125.31,432.5 1095,450 1064.69,432.5 1064.69,397.5"/>
+    <polygon points="120,485 150.31,502.5 150.31,537.5 120,555 89.69,537.5 89.69,502.5"/>
+    <polygon points="250,485 280.31,502.5 280.31,537.5 250,555 219.69,537.5 219.69,502.5"/>
+    <polygon points="380,485 410.31,502.5 410.31,537.5 380,555 349.69,537.5 349.69,502.5"/>
+    <polygon points="510,485 540.31,502.5 540.31,537.5 510,555 479.69,537.5 479.69,502.5"/>
+    <polygon points="835,485 865.31,502.5 865.31,537.5 835,555 804.69,537.5 804.69,502.5"/>
+    <polygon points="965,485 995.31,502.5 995.31,537.5 965,555 934.69,537.5 934.69,502.5"/>
+    <polygon points="1095,485 1125.31,502.5 1125.31,537.5 1095,555 1064.69,537.5 1064.69,502.5"/>
+    <polygon points="1160,485 1190.31,502.5 1190.31,537.5 1160,555 1129.69,537.5 1129.69,502.5"/>
+  </g>
+  <circle cx="600" cy="400" r="6" fill="#06b6d4" opacity="0.8">
+    <animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <g stroke="#06b6d4" stroke-width="0.5" opacity="0.2">
+    <line x1="600" y1="400" x2="400" y2="300"/>
+    <line x1="600" y1="400" x2="800" y2="300"/>
+    <line x1="600" y1="400" x2="400" y2="500"/>
+    <line x1="600" y1="400" x2="800" y2="500"/>
+    <line x1="600" y1="400" x2="300" y2="400"/>
+    <line x1="600" y1="400" x2="900" y2="400"/>
+  </g>
+  <circle cx="400" cy="300" r="4" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="800" cy="300" r="4" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="400" cy="500" r="4" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="800" cy="500" r="4" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="300" cy="400" r="4" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="900" cy="400" r="4" fill="#8b5cf6" opacity="0.5"/>
+  <rect width="1280" height="800" fill="url(#vignette6)"/>
+  <line x1="60" y1="80" x2="160" y2="80" stroke="url(#accent6)" stroke-width="1" opacity="0.6"/>
+  <line x1="60" y1="80" x2="60" y2="130" stroke="#06b6d4" stroke-width="1" opacity="0.3"/>
+  <text x="60" y="170" font-family="'Space Grotesk', Inter, sans-serif" font-size="13" font-weight="500" fill="#06b6d4" opacity="0.8" letter-spacing="4">PROJECT 06</text>
+  <text x="60" y="195" font-family="'JetBrains Mono', monospace" font-size="10" fill="rgba(255,255,255,0.4)" letter-spacing="3">AI CINEMA</text>
+  <text x="60" y="400" font-family="'Space Grotesk', Inter, sans-serif" font-size="64" font-weight="500" fill="white" opacity="0.95">AI叙事实验</text>
+  <text x="60" y="450" font-family="'Space Grotesk', Inter, sans-serif" font-size="22" font-weight="300" fill="rgba(255,255,255,0.5)" letter-spacing="1">人机协作影像</text>
+  <line x1="60" y1="490" x2="200" y2="490" stroke="url(#accent6)" stroke-width="1.5" opacity="0.8"/>
+  <rect x="0" y="720" width="1280" height="80" fill="rgba(0,0,0,0.3)"/>
+  <line x1="0" y1="720" x2="1280" y2="720" stroke="#06b6d4" stroke-width="0.5" opacity="0.2"/>
+  <g transform="translate(60, 760)">
+    <circle cx="0" cy="0" r="14" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    <polygon points="-5,-7 -5,7 6,0" fill="rgba(255,255,255,0.6)"/>
+    <text x="28" y="5" font-family="'JetBrains Mono', monospace" font-size="11" fill="rgba(255,255,255,0.5)" letter-spacing="2">VIDEO</text>
+  </g>
+  <text x="640" y="765" font-family="'JetBrains Mono', monospace" font-size="12" fill="rgba(255,255,255,0.4)" text-anchor="middle" letter-spacing="2">2024</text>
+  <text x="1220" y="770" font-family="'Space Grotesk', Inter, sans-serif" font-size="36" font-weight="300" fill="rgba(255,255,255,0.15)" text-anchor="end">06</text>
+  <line x1="1220" y1="80" x2="1220" y2="200" stroke="#06b6d4" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="1220" cy="80" r="3" fill="#06b6d4" opacity="0.5"/>
+  <rect x="1" y="1" width="1278" height="798" fill="none" stroke="rgba(255,255,255,0.06)" rx="2"/>
+</svg>

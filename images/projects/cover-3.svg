@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" width="1280" height="800">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0a20"/>
+      <stop offset="100%" stop-color="#0d0515"/>
+    </linearGradient>
+    <radialGradient id="glow3" cx="70%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette3" cx="50%" cy="50%" r="75%">
+      <stop offset="55%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.6)"/>
+    </radialGradient>
+    <linearGradient id="accent3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#bg3)"/>
+  <rect width="1280" height="800" fill="url(#glow3)"/>
+  <circle cx="900" cy="300" r="60" fill="#a78bfa" opacity="0.1" filter="blur(20px)"/>
+  <circle cx="900" cy="300" r="40" fill="none" stroke="#a78bfa" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="900" cy="300" r="20" fill="none" stroke="#a78bfa" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="880" cy="290" r="3" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="920" cy="310" r="2" fill="#f472b6" opacity="0.5"/>
+  <path d="M950,100 Q1000,200 950,300 Q900,400 950,500 Q1000,600 950,700" stroke="#a78bfa" stroke-width="1" fill="none" opacity="0.25"/>
+  <path d="M1000,100 Q950,200 1000,300 Q1050,400 1000,500 Q950,600 1000,700" stroke="#f472b6" stroke-width="1" fill="none" opacity="0.2"/>
+  <line x1="950" y1="150" x2="1000" y2="150" stroke="#a78bfa" stroke-width="0.5" opacity="0.15"/>
+  <line x1="950" y1="250" x2="1000" y2="250" stroke="#a78bfa" stroke-width="0.5" opacity="0.15"/>
+  <line x1="950" y1="350" x2="1000" y2="350" stroke="#a78bfa" stroke-width="0.5" opacity="0.15"/>
+  <line x1="950" y1="450" x2="1000" y2="450" stroke="#a78bfa" stroke-width="0.5" opacity="0.15"/>
+  <line x1="950" y1="550" x2="1000" y2="550" stroke="#a78bfa" stroke-width="0.5" opacity="0.15"/>
+  <line x1="950" y1="650" x2="1000" y2="650" stroke="#a78bfa" stroke-width="0.5" opacity="0.15"/>
+  <rect width="1280" height="800" fill="url(#vignette3)"/>
+  <line x1="60" y1="80" x2="160" y2="80" stroke="url(#accent3)" stroke-width="1" opacity="0.6"/>
+  <line x1="60" y1="80" x2="60" y2="130" stroke="#a78bfa" stroke-width="1" opacity="0.3"/>
+  <text x="60" y="170" font-family="'Space Grotesk', Inter, sans-serif" font-size="13" font-weight="500" fill="#a78bfa" opacity="0.8" letter-spacing="4">PROJECT 03</text>
+  <text x="60" y="195" font-family="'JetBrains Mono', monospace" font-size="10" fill="rgba(255,255,255,0.4)" letter-spacing="3">EXPERIMENTAL FILM</text>
+  <text x="60" y="400" font-family="'Space Grotesk', Inter, sans-serif" font-size="64" font-weight="500" fill="white" opacity="0.95">微观日记</text>
+  <text x="60" y="450" font-family="'Space Grotesk', Inter, sans-serif" font-size="22" font-weight="300" fill="rgba(255,255,255,0.5)" letter-spacing="1">A Day Inside</text>
+  <line x1="60" y1="490" x2="200" y2="490" stroke="url(#accent3)" stroke-width="1.5" opacity="0.8"/>
+  <rect x="0" y="720" width="1280" height="80" fill="rgba(0,0,0,0.3)"/>
+  <line x1="0" y1="720" x2="1280" y2="720" stroke="#a78bfa" stroke-width="0.5" opacity="0.2"/>
+  <g transform="translate(60, 760)">
+    <circle cx="0" cy="0" r="14" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    <polygon points="-5,-7 -5,7 6,0" fill="rgba(255,255,255,0.6)"/>
+    <text x="28" y="5" font-family="'JetBrains Mono', monospace" font-size="11" fill="rgba(255,255,255,0.5)" letter-spacing="2">VIDEO</text>
+  </g>
+  <text x="640" y="765" font-family="'JetBrains Mono', monospace" font-size="12" fill="rgba(255,255,255,0.4)" text-anchor="middle" letter-spacing="2">2025</text>
+  <text x="1220" y="770" font-family="'Space Grotesk', Inter, sans-serif" font-size="36" font-weight="300" fill="rgba(255,255,255,0.15)" text-anchor="end">03</text>
+  <line x1="1220" y1="80" x2="1220" y2="200" stroke="#a78bfa" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="1220" cy="80" r="3" fill="#a78bfa" opacity="0.5"/>
+  <rect x="1" y="1" width="1278" height="798" fill="none" stroke="rgba(255,255,255,0.06)" rx="2"/>
+</svg>
